@@ -16,7 +16,7 @@ For several months, I've been actively studying topics related to Python program
 Jeśli znalazłeś się tutaj, to prawdopodobnie jesteś zainteresowany moim profilem i projektami – jest mi bardzo miło.
 
 ## Aktualna praca
-Jestem naukowcem oraz nauczycielem akademickim. Moje badania koncentrują się na określaniu wpływu implantacji jonowej na odporność tribologiczną różnych materiałów. To zadanie wymaga od mnie umiejętności analitycznych, które pozwalają znajdować zależności i korelacje między wynikami badań. Dodatkowo, praca na uczelni rozwija moje zdolności komunikacyjne; regularnie prowadzę wykłady, również w języku angielskim, oraz uczestniczę w zagranicznych misjach edukacyjnych. Więcej na temat moich badań możesz przeczytać [tutaj](https://scholar.google.com/citations?user=zoPbPawAAAAJ&hl=pl).
+Jestem naukowcem oraz nauczycielem akademickim. Moje badania koncentrują się na określaniu wpływu implantacji jonowej na odporność tribologiczną różnych materiałów. To zadanie wymaga od mnie umiejętności analitycznych, które pozwalają znajdować zależności i korelacje między wynikami badań. Dodatkowo, praca na uczelni rozwija moje zdolności komunikacyjne - regularnie prowadzę wykłady, również w języku angielskim, oraz uczestniczę w zagranicznych wyjazdach edukacyjnych. Więcej na temat moich badań możesz przeczytać [tutaj](https://scholar.google.com/citations?user=zoPbPawAAAAJ&hl=pl).
 
 ## Moje aspiracje
 Od zawsze byłem zafascynowany technologiami IT. Kilka miesięcy temu zacząłem zagłębiać się w programowanie w Pythonie, przede wszystkim ze względu na jego możliwości w analizie danych. Moje skrypty znacznie przyspieszyły analizę danych w moich badaniach, co zainspirowało mnie do dalszego kształcenia w tym kierunku.
