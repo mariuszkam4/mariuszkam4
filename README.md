@@ -12,6 +12,16 @@ I've always been interested in IT technologies. A few months ago, I began active
 
 For several months, I've been actively studying topics related to Python programming. It brings me joy and satisfaction. The projects I've created are publicly available. I hope that developing in this direction will help me find a position in a commercial project where I can combine my passion with work.
 
+## Brief description of my projects
+### Friction analyzer (Pandas, Matplotlib libraries) (https://github.com/mariuszkam4/friction_analyzer.git)
+A project to analyze measurement data collected during friction testing on a tribometer. The script parses CSV files in the indicated location containing the results of friction coefficient measurements, then calculates the moving average of each measurement, and saves the results in an aggregate CSV file. In addition, it visualizes the results in the form of a line graph.
+### Wear analyzer (Pandas, Matplotlib libraries) (https://github.com/mariuszkam4/wear_analyzer.git)
+A tool for extracting data from CSV files containing results of surface parameter measurements. It allows the user to select a specific parameter from a list of available ones (length, maximum depth, hole area, maximum height, peak area) then aggregates the data and saves it in an aggregate CSV file. In addition, the script visualizes the results in the form of a box plot.
+### Rental (Pandas libraries, json, pytest) (https://github.com/mariuszkam4/wypozyczalnia.git)
+A program to manage a rental car database. The user can add, delete, as well as rent and return vehicles. It is also possible to search the database based on selected criteria. The application uses Python modules, such as json and pandas, which makes it possible to store data in JSON format and manage it efficiently. User interaction is done through commands entered in the console. Unit tests are implemented in the project, ensuring high code quality and application reliability.
+### Paper browser (Flask, HTML, JavaScript) (https://github.com/mariuszkam4/paper_browser.git)
+A web application that integrates with the arXiv API, allowing users to browse and select scientific data for download. It allows users to search for publications by specified keywords and publication date. The backend was implemented in Python using the Flask framework, while the frontend is based on HTML and JavaScript.
+
 # Witaj!
 Jeśli znalazłeś się tutaj, to prawdopodobnie jesteś zainteresowany moim profilem i projektami – jest mi bardzo miło.
 
@@ -22,4 +32,15 @@ Jestem naukowcem oraz nauczycielem akademickim. Moje badania koncentrują się n
 Od zawsze byłem zafascynowany technologiami IT. Kilka miesięcy temu zacząłem zagłębiać się w programowanie w Pythonie, przede wszystkim ze względu na jego możliwości w analizie danych. Moje skrypty znacznie przyspieszyły analizę danych w moich badaniach, co zainspirowało mnie do dalszego kształcenia w tym kierunku.
 
 Kilka moich projektów jest już dostępnych publicznie na tym profilu. Mam nadzieję, że rozwijając się w programowaniu, będę mógł połączyć swoją pasję z pracą w komercyjnym projekcie.
+
+## Krótki opis moich projektów
+### Friction analyzer (biblioteki Pandas, Matplotlib) (https://github.com/mariuszkam4/friction_analyzer.git)
+Projekt do analizy danych pomiarowych zebranych w trakcie badań tarcia na tribotesterze. Skrypt przetwarza pliki CSV we wskazanej lokalizacji zawierające wyniki pomiarów współczynnika tarcia, następnie oblicza średnią kroczącą z poszczególnych pomiarów, a wyniki zapisuje w zbiorczym pliku CSV. Dodatkowo wizualizuje wyniki w postaci wykresu liniowego.
+###	Wear analyzer (biblioteki Pandas, Matplotlib) (https://github.com/mariuszkam4/wear_analyzer.git)
+Narzędzie do ekstrakcji danych z plików CSV zawierających wyniki pomiarów paramterów powierzchni. Umożliwia ono użytkownikowi wybór konkretnego parametru z listy dostępnych (długość, maksymalna głębokość, pole otworu, maksymalna wysokość, obszar szczytu) następnie agreguje dane i zapisuje je w zbiorczym pliku CSV. Dodatkowo skrypt wizualizuje wyniki w postaci wykresu skrzynkowego.
+###	Wypożyczalnia (biblioteki Pandas, json, pytest) (https://github.com/mariuszkam4/wypozyczalnia.git)
+Program do zarządzania bazą samochodów w wypożyczalni. Użytkownik ma możliwość dodawania, usuwania, a także wypożyczania i zwracania pojazdów. Możliwe jest także przeszukiwanie bazy na podstawie wybranych kryteriów. Aplikacja korzysta z modułów Pythona, takich jak json i pandas, co umożliwia przechowywanie danych w formacie JSON oraz efektywne zarządzanie nimi. Interakcja z użytkownikiem odbywa się poprzez komendy wprowadzane w konsoli. W projekcie zaimplementowano testy jednostkowe, zapewniające wysoką jakość kodu i niezawodność aplikacji.
+###	Paper browser (Flask, HTML, JavaScript) (https://github.com/mariuszkam4/paper_browser.git)
+Aplikacja webowa, która integruje się z API arXiv, pozwalając użytkownikom na przeglądanie i selekcję danych naukowych do pobrania. Umożliwia wyszukiwanie publikacji wg podanych słów kluczowych oraz daty publikacji. Backend został zrealizowany w Python z wykorzystaniem frameworku Flask, podczas gdy frontend oparty jest na HTML i JavaScript.
+
 
