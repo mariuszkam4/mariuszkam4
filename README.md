@@ -10,9 +10,13 @@ I'm a researcher and an academic teacher. In my research, I focus on determining
 
 I've always been interested in IT technologies. A few months ago, I began actively diving into Python programming due to its vast data analysis capabilities. It enthralled me and brought immense satisfaction, especially when I could use scripts I wrote in my research. They significantly reduced the time needed for analyzing research data. This sparked an idea to pivot my career towards programming.
 
+As my job at the university allows me to take up activities outside the university, I decided to fulfill my dreams and start making my way in the IT industry.
+
 For several months, I've been actively studying topics related to Python programming. It brings me joy and satisfaction. The projects I've created are publicly available. I hope that developing in this direction will help me find a position in a commercial project where I can combine my passion with work.
 
 ## Brief description of my projects
+###Hair Salon - A Reservation Management System for a Hairdressing Salon (https://github.com/mariuszkam4/hair_salon.git)
+The goal of the project is to create a web application for booking appointments in a hair salon. The backend of the system was developed in Python using the Django framework. The database was created using PostgreSQL. The frontend of the application was developed with HTML/CSS/JavaScript technologies. The final version of the project will be containerized using Docker containers. A separate container will house the database, and another will contain the application itself. The containers will be interconnected. The project's plans include its deployment using AWS.
 ### Friction analyzer (Pandas, Matplotlib libraries) (https://github.com/mariuszkam4/friction_analyzer.git)
 A project to analyze measurement data collected during friction testing on a tribometer. The script parses CSV files in the indicated location containing the results of friction coefficient measurements, then calculates the moving average of each measurement, and saves the results in an aggregate CSV file. In addition, it visualizes the results in the form of a line graph.
 ### Wear analyzer (Pandas, Matplotlib libraries) (https://github.com/mariuszkam4/wear_analyzer.git)
@@ -31,9 +35,13 @@ Jestem naukowcem oraz nauczycielem akademickim. Moje badania koncentrują się n
 ## Moje aspiracje
 Od zawsze byłem zafascynowany technologiami IT. Kilka miesięcy temu zacząłem zagłębiać się w programowanie w Pythonie, przede wszystkim ze względu na jego możliwości w analizie danych. Moje skrypty znacznie przyspieszyły analizę danych w moich badaniach, co zainspirowało mnie do dalszego kształcenia w tym kierunku.
 
+W związku z tym, że praca na uczelni pozwala na podejmowanie aktywności poza nią, postanowiłem spełnić swoje marzenia i zacząć się realizować w branży IT.
+
 Kilka moich projektów jest już dostępnych publicznie na tym profilu. Mam nadzieję, że rozwijając się w programowaniu, będę mógł połączyć swoją pasję z pracą w komercyjnym projekcie.
 
 ## Krótki opis moich projektów
+### Hair salon - system obłsługi rezerwacji wizyt w salnie fryzjerskim (https://github.com/mariuszkam4/hair_salon.git)
+Celem projektu jest utworzenie aplikacji webowej do rezerwacji wizyt w salonie fryzjerskim. Backend systemu utworzony zostanał w języku Python z wykorzystaniem freamworka Django. Baza danych utworzona jest z wykorzystaniem PostgreSQL. Frontend aplikacji powstał przy wykorzystaniu technoligii HTML/CSS/JavaScript. Finalna wersja projektu zostanie skonteneryzowana z wykorzystaniem kontenerów Docker. W osobnym kontenerze umieszczona zostanie baza danych w osobnym aplikacja. Kontenery będą ze sobą połączone. Założenia projektu obejmują jego wdrożenie przy użyciu AWS.
 ### Friction analyzer (biblioteki Pandas, Matplotlib) (https://github.com/mariuszkam4/friction_analyzer.git)
 Projekt do analizy danych pomiarowych zebranych w trakcie badań tarcia na tribotesterze. Skrypt przetwarza pliki CSV we wskazanej lokalizacji zawierające wyniki pomiarów współczynnika tarcia, następnie oblicza średnią kroczącą z poszczególnych pomiarów, a wyniki zapisuje w zbiorczym pliku CSV. Dodatkowo wizualizuje wyniki w postaci wykresu liniowego.
 ###	Wear analyzer (biblioteki Pandas, Matplotlib) (https://github.com/mariuszkam4/wear_analyzer.git)
