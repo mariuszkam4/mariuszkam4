@@ -15,12 +15,25 @@ As my job at the university allows me to take up activities outside the universi
 For several months, I've been actively studying topics related to Python programming. It brings me joy and satisfaction. The projects I've created are publicly available. I hope that developing in this direction will help me find a position in a commercial project where I can combine my passion with work.
 
 ## Brief description of my projects
+
+### Analysis and Modeling of Wholesale Fuel Prices (Pandas, Matplotlib, Seaborn, Scikit-learn, Numpy, Jupyter Notebook) (link):
+In this project, I conducted an advanced analysis of the relationship between wholesale fuel prices, Brent crude oil prices, and the USD/PLN exchange rate, aiming to identify periods where Eurodiesel fuel prices did not reflect market situations. The project included data collection and preparation from various sources, exploratory data analysis featuring descriptive statistics and visualization of price trends, and the development of predictive models using linear and polynomial regression. I carried out a comparative analysis of the model’s accuracy. This project highlighted my skills in data analysis, statistical modeling, and the interpretation of complex economic relationships.
+
+### Surface Roughness Analysis of Control Valves for High-Pressure Fuel Injectors (Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn) - In Progress (link):
+This project is dedicated to analyzing the surface roughness parameters. It involves automated data extraction from PDF reports using Python, data cleaning, and normalization to prepare for exploratory data analysis (EDA) to uncover patterns and anomalies. A key goal is to compare valves treated with ion implantation against standard valves using statistical and machine-learning techniques to identify significant differences in roughness. 
+
+###	Economic Data Analysis (Jupyter Notebook, Pandas, Matplotlib, FRED API) (link):
+Executed an economic data analysis project in Jupyter Notebook, leveraging Pandas for data processing, Matplotlib and Plotly for visualization, and the FRED API for data retrieval. Key aspects include historical S&P 500 trend analysis, state-level unemployment rate visualization, and comparative analysis of unemployment and labor force participation rates. The project illustrates adeptness in extracting, analyzing, and visually presenting complex economic data.
+
 ### Hair Salon - A Reservation Management System for a Hairdressing Salon (https://github.com/mariuszkam4/hair_salon.git)
 The goal of the project is to create a web application for booking appointments in a hair salon. The backend of the system was developed in Python using the Django framework. The database was created using PostgreSQL. The frontend of the application was developed with HTML/CSS/JavaScript technologies. The final version of the project will be containerized using Docker containers. A separate container will house the database, and another will contain the application itself. The containers will be interconnected. The project's plans include its deployment using AWS.
+
 ### Friction analyzer (Pandas, Matplotlib libraries) (https://github.com/mariuszkam4/friction_analyzer.git)
 A project to analyze measurement data collected during friction testing on a tribometer. The script parses CSV files in the indicated location containing the results of friction coefficient measurements, then calculates the moving average of each measurement, and saves the results in an aggregate CSV file. In addition, it visualizes the results in the form of a line graph.
+
 ### Wear analyzer (Pandas, Matplotlib libraries) (https://github.com/mariuszkam4/wear_analyzer.git)
 A tool for extracting data from CSV files containing results of surface parameter measurements. It allows the user to select a specific parameter from a list of available ones (length, maximum depth, hole area, maximum height, peak area) then aggregates the data and saves it in an aggregate CSV file. In addition, the script visualizes the results in the form of a box plot.
+
 ### Rental (Pandas libraries, json, pytest) (https://github.com/mariuszkam4/wypozyczalnia.git)
 A program to manage a rental car database. The user can add, delete, as well as rent and return vehicles. It is also possible to search the database based on selected criteria. The application uses Python modules, such as json and pandas, which makes it possible to store data in JSON format and manage it efficiently. User interaction is done through commands entered in the console. Unit tests are implemented in the project, ensuring high code quality and application reliability.
 ### Paper browser (Flask, HTML, JavaScript) (https://github.com/mariuszkam4/paper_browser.git)
