@@ -15,7 +15,7 @@ As my job at the university allows me to take up activities outside the universi
 For several months, I've been actively studying topics related to Python programming. It brings me joy and satisfaction. The projects I've created are publicly available. I hope that developing in this direction will help me find a position in a commercial project where I can combine my passion with work.
 
 ## Brief description of my projects
-###Hair Salon - A Reservation Management System for a Hairdressing Salon (https://github.com/mariuszkam4/hair_salon.git)
+### Hair Salon - A Reservation Management System for a Hairdressing Salon (https://github.com/mariuszkam4/hair_salon.git)
 The goal of the project is to create a web application for booking appointments in a hair salon. The backend of the system was developed in Python using the Django framework. The database was created using PostgreSQL. The frontend of the application was developed with HTML/CSS/JavaScript technologies. The final version of the project will be containerized using Docker containers. A separate container will house the database, and another will contain the application itself. The containers will be interconnected. The project's plans include its deployment using AWS.
 ### Friction analyzer (Pandas, Matplotlib libraries) (https://github.com/mariuszkam4/friction_analyzer.git)
 A project to analyze measurement data collected during friction testing on a tribometer. The script parses CSV files in the indicated location containing the results of friction coefficient measurements, then calculates the moving average of each measurement, and saves the results in an aggregate CSV file. In addition, it visualizes the results in the form of a line graph.
