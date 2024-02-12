@@ -1,4 +1,4 @@
-## [EN](# **Hello!**) / [PL](# **Cześć!**)
+## [EN](#hello) / [PL](#cześć)
 
 # **Hello!**
 If you've found yourself here, you're probably interested in my profile and projects – which I find very pleasing.
